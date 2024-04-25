@@ -61,6 +61,15 @@ This project demonstrates an approach to predict adult census income using machi
   - `app.py`: Flask application code for serving the machine learning model.
   - `setup.py`: Setup script to download the repository as a package.
 
+## Technology Used
+
+- Language: Python
+- Framework: Flask
+- Deployed: Render
+- Containerized: Docker
+
+
+
 ## Usage
 
 1. Clone this repository to your local machine.
