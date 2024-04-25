@@ -51,7 +51,7 @@ This project demonstrates an approach to predict adult census income using machi
 
 - `src/`: This directory contains the source code for various components of the project:
   - `components/`: Contains individual components used in the machine learning pipeline.
-  - `pipeline.py`: Main pipeline file orchestrating the data preprocessing, model training, and evaluation.
+  - `pipeline/`: Main pipeline file orchestrating the data preprocessing, model training, and evaluation.
   - `utils/`: Utility functions used across the project.
   - `template/`: Templates for the web application:
     - `form.html`: HTML template for input form.
@@ -82,3 +82,6 @@ This project demonstrates an approach to predict adult census income using machi
 Docker Hub Link: [mds2019/adultbhai](https://hub.docker.com/r/mds2019/adultbhai)
 
 This will pull the Docker image containing the pre-built application environment and dependencies, allowing you to run the application in a containerized environment.
+
+
+check out the link : https://adultcensusincomeprediction-9oyw.onrender.com
