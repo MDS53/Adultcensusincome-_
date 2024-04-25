@@ -54,6 +54,4 @@ def admin():
     return render_template('admin.html',models=models,best_model=best_model,best_model_score=best_model_score)
 
 
-if __name__=="__main__":
-    app.run(host='0.0.0.0',debug=True)
 
