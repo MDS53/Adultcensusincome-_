@@ -79,9 +79,23 @@ This project demonstrates an approach to predict adult census income using machi
 5. Access the application through your web browser.
 6. Alternatively, use the Dockerfile to build a Docker container for the application. You can pull the Docker image from Docker Hub using the command: docker pull mds2019/adultbhai
 
-Docker Hub Link: [mds2019/adultbhai](https://hub.docker.com/r/mds2019/adultbhai)
+Docker Hub Link: [mds2019/
+
+https://github.com/MDS53/Adultcensusincome-_/assets/82602774/11a77cf4-4537-46e9-88e9-1f19d0aea39e
+
+adultbhai](https://hub.docker.com/r/mds2019/adultbhai)
 
 This will pull the Docker image containing the pre-built application environment and dependencies, allowing you to run the application in a containerized environment.
 
 
+
+https://github.com/MDS53/Adultcensusincome-_/assets/82602774/225c4c2e-d8a0-4fc7-ba7f-88d87706c67e
+
+
+
+https://github.com/MDS53/Adultcensusincome-_/assets/82602774/4dce71bf-c4c7-4ac9-8c15-12a5fc89d55c
+
+
 check out the link : https://adultcensusincomeprediction-9oyw.onrender.com
+
+demo: 
