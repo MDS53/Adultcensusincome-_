@@ -68,4 +68,8 @@ This project demonstrates an approach to predict adult census income using machi
 3. Install the required dependencies listed in `requirements.txt`.
 4. Run the Flask application by executing `python app.py`.
 5. Access the application through your web browser.
-6. Alternatively, use the Dockerfile to build a Docker container for the application. You can pull the Docker image from Docker Hub using the command:
+6. Alternatively, use the Dockerfile to build a Docker container for the application. You can pull the Docker image from Docker Hub using the command: docker pull mds2019/adultbhai
+
+Docker Hub Link: [mds2019/adultbhai](https://hub.docker.com/r/mds2019/adultbhai)
+
+This will pull the Docker image containing the pre-built application environment and dependencies, allowing you to run the application in a containerized environment.
