@@ -1,0 +1,1 @@
+{"models": ["DecisionTreeClassifier", "LogisticRegression", "CatBoostClassifier", "XGBClassifier", "RandomForestClassifier"], "best_model_str": "CatBoostClassifier", "best_model_score_str": 0.8732725969904801}

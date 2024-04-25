@@ -1,0 +1,9 @@
+datetime
+numpy
+pandas
+Flask
+scikit-learn
+seaborn
+catboost
+xgboost
+-e .
