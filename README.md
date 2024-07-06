@@ -1,6 +1,35 @@
-# Adult Census Income Prediction Dataset
+
+# Adult Census Income Prediction
+
+## Introduction
 
 This repository contains the code and documentation for predicting adult census income using various machine learning algorithms. The dataset used in this project contains information about individuals such as age, education, occupation, and more, and the task is to predict whether an individual earns more than $50,000 annually.
+
+
+
+## Technology Used
+<img src="https://github.com/MDS53/Adultcensusincome-_/assets/82602774/4a1d188d-a4bc-4d25-881d-80e6db331914" alt="Vscode" width="200"/>
+
+<img src="https://github.com/MDS53/Adultcensusincome-_/assets/82602774/4f0730f0-0f7f-4536-af72-ca89802f8b77" alt="Python Logo" width="200"/>
+
+<img src="https://github.com/MDS53/Adultcensusincome-_/assets/82602774/b5ab334c-4f77-4e07-9556-99c6874022e1" alt="Jupyter notebook" width="200"/>
+
+<img src="https://github.com/MDS53/Adultcensusincome-_/assets/82602774/df040526-5e3f-4309-92a2-b092e0bfea9f" alt="Pandas" width="200"/>
+
+<img src="https://github.com/MDS53/Adultcensusincome-_/assets/82602774/708ee0a7-f846-494b-b1ec-a22fa1bf572e" alt="Numpy" width="200"/>
+
+<img src="https://github.com/MDS53/Adultcensusincome-_/assets/82602774/9ff1d913-4cd5-4411-a6b4-0cd66eaf6acb" alt="Sklearn icon" width="200"/>
+
+<img src="https://github.com/MDS53/Adultcensusincome-_/assets/82602774/7b006b84-93e2-4edc-b3ff-bd0d0672b2f5" alt="Flask icon" width="200"/>
+
+<img src="https://github.com/MDS53/Adultcensusincome-_/assets/82602774/05210c5c-bbec-4efa-a6c6-f859b2fa9121" alt="Docker icon" width="200"/>
+
+####
+<img src="https://github.com/MDS53/Adultcensusincome-_/assets/82602774/a7812838-6e90-4ecb-8122-db94b0c76a33" alt="Render icon" width="200"/>
+
+
+
+  
 
 ## Dataset Description
 
@@ -61,13 +90,10 @@ This project demonstrates an approach to predict adult census income using machi
   - `app.py`: Flask application code for serving the machine learning model.
   - `setup.py`: Setup script to download the repository as a package.
 
-## Technology Used
 
-- Language: Python
-- Framework: Flask
-- Deployed: Render
-- Containerized: Docker
+## Project working demo: 👇👇👇:
 
+https://github.com/MDS53/Adultcensusincome-_/assets/82602774/4dce71bf-c4c7-4ac9-8c15-12a5fc89d55c
 
 
 ## Usage
@@ -79,18 +105,15 @@ This project demonstrates an approach to predict adult census income using machi
 5. Access the application through your web browser.
 6. Alternatively, use the Dockerfile to build a Docker container for the application. You can pull the Docker image from Docker Hub using the command: docker pull mds2019/adultbhai
 
-Docker Hub Link: [mds2019/adultbhai](https://hub.docker.com/r/mds2019/adultbhai)
+
+
+## Docker Hub Link:
+[mds2019/adultbhai](https://hub.docker.com/r/mds2019/adultbhai)
 
 This will pull the Docker image containing the pre-built application environment and dependencies, allowing you to run the application in a containerized environment.
 
 
+Try out the app link 
+## Deployed app: https://adultcensusincomeprediction-9oyw.onrender.com
 
 
-
-Try out the app link : https://adultcensusincomeprediction-9oyw.onrender.com
-
-project working demo: 👇👇👇
-
-
-
-https://github.com/MDS53/Adultcensusincome-_/assets/82602774/4dce71bf-c4c7-4ac9-8c15-12a5fc89d55c
