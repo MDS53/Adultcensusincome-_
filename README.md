@@ -114,6 +114,8 @@ https://github.com/MDS53/Adultcensusincome-_/assets/82602774/4dce71bf-c4c7-4ac9-
 This will pull the Docker image containing the pre-built application environment and dependencies, allowing you to run the application in a containerized environment.
 
 
+In case, if you would like to connect with me:
+#### Linkedin : https://www.linkedin.com/in/mohammad-salman-a633b9238/
 Try out the app link 
 ## Deployed app: https://adultcensusincomeprediction-9oyw.onrender.com
 
