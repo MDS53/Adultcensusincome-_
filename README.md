@@ -7,7 +7,8 @@ This repository contains the code and documentation for predicting adult census 
 
 
 
-## Technology Used
+## Technology Stack
+### 
 <img src="https://github.com/MDS53/Adultcensusincome-_/assets/82602774/4a1d188d-a4bc-4d25-881d-80e6db331914" alt="Vscode" width="200"/>
 
 <img src="https://github.com/MDS53/Adultcensusincome-_/assets/82602774/4f0730f0-0f7f-4536-af72-ca89802f8b77" alt="Python Logo" width="200"/>
