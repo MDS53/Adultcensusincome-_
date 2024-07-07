@@ -37,6 +37,9 @@ This repository contains the code and documentation for predicting adult census 
 The dataset used in this project is the Adult Census Income dataset, which is publicly available and often used for classification tasks. It contains various demographic features of individuals such as age, education, marital status, occupation, etc., along with the target variable indicating whether an individual earns more than $50,000 annually.
 
 ## Approach Overview
+![Approach Overview](https://github.com/MDS53/Adultcensusincome-_/assets/82602774/05a0da34-9120-46f9-93ff-cb83903fa0ce)
+
+
 
 ### Handling Missing Values
 
@@ -71,6 +74,9 @@ After evaluating the performance of each model, it was found that the CatBoostCl
 This project demonstrates an approach to predict adult census income using machine learning algorithms while effectively handling missing values and incorporating feature engineering techniques. The CatBoostClassifier emerged as the best-performing model, achieving a high accuracy score on the test dataset. The code and documentation provided here can serve as a reference for similar classification tasks involving demographic data.
 
 ## Repository Structure
+![Repository Structure](https://github.com/MDS53/Adultcensusincome-_/assets/82602774/0537c487-2e19-443e-a204-f9151cb2450b)
+
+
 
 - `artifacts/`: This directory stores all outputs generated during the project, including:
   - `model.pkl`: Serialized machine learning model.
